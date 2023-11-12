@@ -13,7 +13,7 @@
 ```plaintext
 /INTRO_TO_AI            // Project root
 |-- /config
-|   |--config.env       // environment variables
+|   |--config.env       // environment variables(To run in your local system please add your mongodb atlas connection string)
 |-- /src                // Source code
 |   |-- /controllers    // Request handlers
 |   |-- /db             // Database configuration
